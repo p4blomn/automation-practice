@@ -10,7 +10,7 @@ public class AutomationPractice extends SeleniumTestCase {
 	private static final String BLOUSE = "Blouse";
 	private static final String QUANTITY = "1";
 	private static final String TOTAL_PRICE = "$29.00";
-	private static final String EMAIL = "sherlock3@email.com";
+	private static final String EMAIL = "sherlock2019@email.com";
 	private static final String FIRSTNAME = "Sherlock";
 	private static final String LASTNAME = "Holmes";
 	private static final String ADDRESS = "221B Baker Street";
