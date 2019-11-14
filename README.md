@@ -15,3 +15,6 @@ Framework utilizado: Selenium
 2. Importar o projeto pelo eclipse através do menu File > Import > Existing Gradle Project
 3. Clicar no menu Project > Clean... e selecionar o projeto DesafioAutomacaoTestes
 4. Clicar com o botão direito no arquivo src/test/java/AutomationPractice.java e selecionar a opção Run As > JUnit Test
+
+### Notas
+Caso deseje repetir o teste, é necessário alterar o email na linha 18 do arquivo src/test/java/AutomationPractice.java pois o sistema faz a validação de e-mail já cadastrado.
